@@ -1,24 +1,24 @@
 {
-  "name": "lscache",
-  "title": "lscache",
-  "description": "A simple library that emulates memcache functions using HTML5 localStorage",
+  "name": "sessioncache",
+  "title": "sessioncache",
+  "description": "A simple library that emulates memcache functions using HTML5 sessionStorage",
   "author": "Pamela Fox",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pamelafox/lscache.git"
+    "url": "https://github.com/christian-beckmann/sessioncache.git"
   },
-  "homepage": "http://github.com/pamelafox/lscache",
-  "main": "lscache",
-  "version": "1.0.7",
+  "homepage": "",
+  "main": "sessioncache",
+  "version": "1.0.1",
   "devDependencies": {
-    "grunt": "^0.4.5",
-    "grunt-browserify": "1.3.x",
-    "grunt-bump": "0.0.13",
-    "grunt-cli": "~0.1.13",
-    "grunt-contrib-jshint": "~0.8.0",
-    "grunt-contrib-qunit": "^0.4.0",
-    "grunt-contrib-uglify": "^0.3.3"
+    "grunt": "^1.0.1",
+    "grunt-browserify": "^5.0.x",
+    "grunt-bump": "0.8.0",
+    "grunt-cli": "^1.2.0",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-qunit": "^1.2.0",
+    "grunt-contrib-uglify": "^2.0.0"
   },
   "scripts": {
     "test": "grunt test"
