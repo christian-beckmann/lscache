@@ -10,7 +10,7 @@
   },
   "homepage": "",
   "main": "sessioncache",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-browserify": "^5.0.x",

@@ -1,7 +1,7 @@
 {
 	"name": "sessioncache",
 	"description": "A sessionStorage-based memcache-inspired client-side caching library.",
-	"version": "1.0.6",
+	"version": "1.0.7",
 	"homepage": "https://github.com/christian-beckmann/sessioncache",
 	"main": ["sessioncache.js"],
 	"ignore": [
